@@ -16,3 +16,4 @@ robot’s pose using information provided by various on-board sensors
 (e.g. encoders, gyroscopes, accelerometers) while the latter obtains the
 absolute pose using beacons, landmarks or satellite based signals (e.g.
 GPS).
+
